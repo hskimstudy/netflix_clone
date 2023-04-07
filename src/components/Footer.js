@@ -35,6 +35,7 @@ export default function Footer() {
   )
 }
 
+
 const FooterContainer = styled.div`
   display: flex;
   justify-content: center;
