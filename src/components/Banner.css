@@ -37,6 +37,7 @@
     border-radius: 4px !important;
   }
 }
+
 .banner__contents {
   margin-left: 40px;
   padding-top: 140px;
@@ -80,8 +81,9 @@
   font-size: 1rem;
   font-weight: 700;
   border-radius: 0.2vw;
-  padding: 0.4rem 1.8rem 0.4rem 1rem;
+  padding: 0.1rem 1rem 0.2rem 1rem;
   margin-right: 1rem;
+  font-family: "pretendard";
 }
 .banner__button:hover {
   color: #000;
@@ -89,7 +91,7 @@
   transition: all 0.2s;
 }
 .play {
-  background-color: white;
+  background-color: rgba(235, 245, 245, 0.5);
   color: black;
 }
 .info {
